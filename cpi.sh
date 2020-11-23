@@ -47,7 +47,7 @@ else
                     #Install Essential Utilities
                     echo "Installing Essential Utilities"
                     yum install -y ncdu && yum install -y htop && yum install  -y terminator
-                    ;;
+                    
  
                
         esac  
