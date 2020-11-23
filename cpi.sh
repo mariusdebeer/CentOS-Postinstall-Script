@@ -42,7 +42,7 @@ else
  
                     echo "Restarting Apache Server"
                     sudo systemctl restart httpd.service 
-                    ;;
+                    
                 2)
                     #Install Essential Utilities
                     echo "Installing Essential Utilities"
